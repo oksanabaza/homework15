@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.Comment{
+	width: 100%;
+	padding: 40px;
+	margin: 20px;
+	font-family: 'Raleway', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid gray;
+	border-radius: 4px;
+	box-shadow: -5px 4px 5px 0px rgba(0, 0, 0, 0.35);
+	background-color: #79b1b5;
+
+}
+/*.Avatar_Image{
+
+}*/
+/*.Avatar{
+	
+}*/
+.Comment_inner{
+	justify-content: space-between;
+	margin-left: 20px;
+	justify-content: center;
+
+
+}
+/*.Comment_title{
+	
+}*/
+.Comment_message{
+ 	margin-top: 20px;
+ 	
+}
